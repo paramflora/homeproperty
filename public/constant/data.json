@@ -1,0 +1,361 @@
+{
+  "Properties" : [
+    {
+      "id": 1,
+      "cover": "./property/property-1.jpg",
+      "name": "New Apartment Nice View",
+      "location": "Brantford",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Rent",
+      "price": 3700,
+      "pricePerSqft" : 1200,
+      "type": "Apartment",
+      "isFeatured" : true,
+      "postedDate" : "December 2023️",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 4,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 1,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 3452,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior size"
+          },
+          "parking" : {
+            "size" : 1,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cover": "./property/property-1.jpg",
+      "name": "Comfortable Apartment",
+      "location": "Canada",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Sale",
+      "price": 3800,
+      "pricePerSqft" : 1300,
+      "type": "Apartment",
+      "isFeatured" : true,
+      "postedDate" : "December 2023️",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 123,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior Size"
+          },
+          "parking" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cover": "./property/property-1.jpg",
+      "name": "Luxury Apartment",
+      "location": "Dubai",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Sale",
+      "price": 3900,
+      "pricePerSqft" : 1400,
+      "type": "Homes & Villas",
+      "isFeatured" : false,
+      "postedDate" : "December 2023️",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 123,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior Size"
+          },
+          "parking" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cover": "./property/property-1.jpg",
+      "name": "Modern Apartments",
+      "location": "USA",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Rent",
+      "price": 4000,
+      "pricePerSqft" : 1500,
+      "type": "Commercial",
+      "isFeatured" : false,
+      "postedDate" : "December 2023️",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 123,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior Size"
+          },
+          "parking" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cover": "./property/property-1.jpg",
+      "name": "Modern Commercial",
+      "location": "UK",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Sale",
+      "price": 2800,
+      "pricePerSqft" : 2500,
+      "type": "Commercial",
+      "isFeatured" : false,
+      "postedDate" : "January 2024",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 2,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 2,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 1,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 134,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior Size"
+          },
+          "parking" : {
+            "size" : 2,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cover": "./property/property-1.jpg",
+      "name": "Luxury Villa",
+      "location": "Brazil",
+      "fullAddress" : "33 Erie Ave",
+      "category": "For Rent",
+      "price": 5600,
+      "pricePerSqft" : 2000,
+      "type": "Villa",
+      "isFeatured" : true,
+      "postedDate" : "February 2024",
+      "amenities" : [
+        {
+          "bedroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bed",
+            "title" : "Bedroom"
+          },
+          "bathroom" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-bath",
+            "title" : "Bathroom"
+          },
+          "garage" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-warehouse",
+            "title" : "Garage"
+          },
+          "interiorSize" : {
+            "size" : 123,
+            "icon" : "fa-solid fa-maximize",
+            "title" : "Interior Size"
+          },
+          "parking" : {
+            "size" : 3,
+            "icon" : "fa-solid fa-square-parking",
+            "title" : "Parking"
+          }
+        }
+      ]
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa-solid fa-shop",
+      "heading": "Market Place",
+      "text": "Provide liquidity to the assignment transaction, reduce cost and save time."
+    },
+    {
+      "icon": "fa-solid fa-chart-area",
+      "heading": "Data Analytics",
+      "text": "Provide extensive comparable analysis and report."
+    },
+    {
+      "icon": "fa-solid fa-user-tie",
+      "heading": "Professional Services",
+      "text": "Provide expert advice for assignment transactions."
+    },
+    {
+      "icon": "fa-solid fa-laptop",
+      "heading": "O2O Platform",
+      "text": "Create smarter real estate Eco system and solution."
+    }
+  ],
+  "WhyChoose": {
+      "text": "With a deep understanding of the market, large transaction and comparable data and an unrelenting focus on building technology that’s relevant for the assignment transaction, we are leading the way in real estate innovation.",
+      "callout": "\"Dream Estate is the leading online marketplace for new house and condo assignment listing.\""
+    },
+  "UserGuide" :  [
+    {
+      "bgImg" : "",
+      "heading" : "For Buyers",
+      "text" : "With a large collection of assignment listings, you get the opportunity to find the best deals among the many choices."
+    },
+    {
+      "bgImg" : "",
+      "heading" : "For Sellers",
+      "text" : "Dream Estate is a marketplace for assignment. It is the most efficient platform to sell your assignment and to maximize your profits."
+    },
+    {
+      "bgImg" : "",
+      "heading" : "For Builders",
+      "text" : "Dream Estate is the best place to promote your new project sale and sell inventory units."
+    },
+    {
+      "bgImg" : "",
+      "heading" : "For Agents",
+      "text" : "Dream Estate is a marketplace to bring sellers and buyers together. Join us as agent partners and create multiple streams of your income through the assignment business."
+    }
+  ],
+  "FooterNav" : [
+    {
+      "title": "Company",
+      "text": [
+        {
+          "list": "About",
+          "path" : "/"
+        },
+        { "list": "FAQ","path" : "/" },
+        { "list": "Contact Us","path" : "/" },
+        { "list": "Listings","path" : "/" }
+      ]
+    },
+    {
+      "title": "Service",
+      "text": [
+        { "list": "Find Deals","path" : "/" },
+        { "list": "Login","path" : "/" },
+        { "list": "List Property","path" : "/" },
+        { "list": "Terms & Conditions","path" : "/" }
+      ]
+    }
+  ],
+  "SocialLinks" : [
+    {
+      "title" : "Facebook",
+      "icon" : "fa-brands fa-facebook-f",
+      "link" : "https://www.facebook.com/"
+    },
+    {
+      "title" : "Twitter",
+      "icon" : "fa-brands fa-x-twitter",
+      "link" : "https://twitter.com/"
+    },
+    {
+      "title" : "Youtube",
+      "icon" : "fa-brands fa-youtube",
+      "link" : "https://youtube.com/"
+    }
+  ],
+  "ContactDetails" : [
+    {
+      "title" : "Address",
+      "icon" : "fa-solid fa-location-dot",
+      "text" : "Brooklyn, New York, United States"
+    },
+    {
+      "title" : "Phone",
+      "icon" : "fa-solid fa-phone",
+      "text" : "+0123-456789"
+    },
+    {
+      "title" : "Email",
+      "icon" : "fa-solid fa-envelope",
+      "text" : "contact@homeverse.com"
+    }
+  ]
+}
